@@ -1,4 +1,13 @@
 // https://choosealicense.com/licenses/
+// https://shields.io/
+// ![GNU AGPLv3](https://img.shields.io/badge/license-GNU%20AGPLv3-blue.svg)
+// ![GNU GPLv3](https://img.shields.io/badge/license-GNU%20GPLv3-blue.svg)
+// ![GNU LGPLv3](https://img.shields.io/badge/license-GNU%20LGPLv3-blue.svg)
+// ![Mozilla Public License 2.0](https://img.shields.io/badge/license-Mozilla%20Public%20License%202.0-blue.svg)
+// ![Apache License 2.0](https://img.shields.io/badge/license-Apache%20License%202.0-blue.svg)
+// ![MIT License](https://img.shields.io/badge/license-MIT%20License-blue.svg)
+// ![Boost Software License 1.0](https://img.shields.io/badge/license-Boost%20Software%20License%201.0-blue.svg)
+// ![The Unlicense](https://img.shields.io/badge/license-The%20Unlicense-blue.svg)
 
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
