@@ -15,26 +15,26 @@ const questions = [
         message: 'What is the project description? ',
         name: 'description',
     },
-    {
-        type: 'input',
-        message: 'What are the installation instructions? ',
-        name: 'installInstructions',
-    },
-    {
-        type: 'input',
-        message: 'What is the usage information? ',
-        name: 'usageInfo',
-    },
-    {
-        type: 'input',
-        message: 'What are the contribution guidelines? ',
-        name: 'guidelines',
-    },
-    {
-        type: 'input',
-        message: 'What are the test instructions? ',
-        name: 'testInstructions',
-    },
+    // {
+    //     type: 'input',
+    //     message: 'What are the installation instructions? ',
+    //     name: 'installInstructions',
+    // },
+    // {
+    //     type: 'input',
+    //     message: 'What is the usage information? ',
+    //     name: 'usageInfo',
+    // },
+    // {
+    //     type: 'input',
+    //     message: 'What are the contribution guidelines? ',
+    //     name: 'guidelines',
+    // },
+    // {
+    //     type: 'input',
+    //     message: 'What are the test instructions? ',
+    //     name: 'testInstructions',
+    // },
     {
         type: 'list',
         message: 'What is the license? ',
@@ -46,12 +46,11 @@ const questions = [
         message: 'What is your GitHub username? ',
         name: 'userName',
     },
-    {
-        type: 'input',
-        message: 'What is your email address? ',
-        name: 'email',
-    },
-
+    // {
+    //     type: 'input',
+    //     message: 'What is your email address? ',
+    //     name: 'email',
+    // },
 ];
 
 // TODO: Create a function to write README file
