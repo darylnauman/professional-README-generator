@@ -33,8 +33,8 @@ The following video demonstrates the application's functionality.
 This product is under the MIT License.
 
 ## Questions
-https://github.com/darylnauman
- 
+GitHub profile: https://github.com/darylnauman
+
 Reach me at: darylnauman@gmail.com
 
 ## Screenshots
