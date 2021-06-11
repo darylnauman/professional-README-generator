@@ -50,7 +50,7 @@ ${renderLicenseSection(data.license)}
 ## Usage\n${data.usageInfo}\n
 ## Contributing\n${data.guidelines}\n
 ## Tests\n${data.testInstructions}\n
-## Questions\n
+## Questions
 https://github.com/${data.userName} \n
 Reach me at: ${data.email}`
 }
